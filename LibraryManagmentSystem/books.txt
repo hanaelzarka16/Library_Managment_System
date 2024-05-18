@@ -1,0 +1,5 @@
+9780136019701,An Introduction to Organic Chemistry,Timberlake Karen,10,3.54,12-2008
+9781506304212,Mathematics for Social Scientists,Kropko Jonathan,7,4.73,12-2015
+9780321385178,Linear Algebra,David C.Lay,8,7.51,2-2012
+9780073383095,Discrete Mathematics,Kenneth H.Rosen,3,10.10,5-2007
+1234567898765,blue,hana,3,2.00,12-2002
